@@ -19,4 +19,4 @@ while [ $parametre != "acabar" ]; do            # Si parametre és diferent a ac
    fi
 done
 
-echo "Tot guardat correctament broooo"
+echo "Tot guardat correctament broooooooo"
